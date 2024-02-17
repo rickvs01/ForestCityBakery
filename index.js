@@ -22,6 +22,8 @@ for (var i =0 ; i <numberOfNavItems; i++){
 
 }
 
+
+
 // function openForm() {
 //   document.getElementById("myForm").style.display = "block";
 // }
