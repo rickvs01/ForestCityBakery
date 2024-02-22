@@ -114,3 +114,21 @@ img {
     border: 3px solid #f1f1f1;
     z-index: 9;
   }
+
+  .carousel-item img:hover {
+    transform: scale(1.5); /* Increase scale factor as desired */
+    transition: transform 0.9s ease; /* Add a smooth transition effect */
+  }
+
+  .card-body {
+    max-height: 175px; /* Set maximum height for the card body */
+    overflow: auto; /* Enable vertical scrolling for long descriptions */
+  }
+
+  .card-description {
+    font-size: 12px; /* Set the font size of the description */
+  }
+
+  .carousel-item img {
+    width: 90%; /* Set width of carousel images to 90% */
+  }
