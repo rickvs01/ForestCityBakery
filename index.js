@@ -22,6 +22,14 @@ for (var i =0 ; i <numberOfNavItems; i++){
 
 }
 
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
 
 
 
